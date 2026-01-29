@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.postimg.cc/CMQhcYrk/fajarbc-banner-2026.png" width="100%" alt="Fajar BC Banner" />
-</div>
-
 <h1 align="center">Hi, I'm Fajar 👋</h1>
 <h3 align="center">Engineering Leader | Cloud Architect | AI Infrastructure Specialist</h3>
 
