@@ -26,7 +26,7 @@ I bridge the gap between **complex business goals** and **hardcore engineering**
 ---
 
 ### 📈 Latest Thoughts (From LinkedIn)
-* [Follow up vulnerabilities of CVE-2025-55182 the React2Shell](https://www.linkedin.com/posts/fajarbc_nextjs-security-update-december-11-2025-activity-7405060076849262593-cjII)
+* [OpenClaw & Tailscale on VPS](https://www.linkedin.com/posts/fajarbc_ai-cloudcomputing-tailscale-ugcPost-7437733859649114112-1JHK)
 * [Running your LLM models locally!](https://www.linkedin.com/posts/fajarbc_jalanin-llm-di-lokal-full-pakai-docker-aja-activity-7319934541081513984-i8HC)
 
 <p align="right">
