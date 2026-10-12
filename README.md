@@ -26,12 +26,17 @@ I bridge the gap between **complex business goals** and **hardcore engineering**
 ---
 
 ### 📈 Latest Thoughts (From LinkedIn)
-* [RAG with Pinecone vs Cloudflare Vectorize](https://www.linkedin.com/posts/fajarbc_ai-rag-llm-share-7468600793173241856-My-_)
-* [OpenClaw & Tailscale on VPS](https://www.linkedin.com/posts/fajarbc_ai-cloudcomputing-tailscale-ugcPost-7437733859649114112-1JHK)
-* [Offline Video Call with Local Network](https://www.linkedin.com/posts/fajarbc_webrtc-offlinefirst-pwa-activity-7426810896485740544-FMW6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA92pAIBFbKS5e8trMjOOfY0AhlT3kjXmN4)
-* [Running your LLM models locally!](https://www.linkedin.com/posts/fajarbc_jalanin-llm-di-lokal-full-pakai-docker-aja-activity-7319934541081513984-i8HC)
+* [LessOTP: Inbound phone authentication service and more](https://lnkd.in/p/gCJVHzxS)
+* [System 1 decision model on RAG and Vector Database](https://lnkd.in/p/gqiqb8pf)
+* [OpenClaw & Tailscale on VPS](https://lnkd.in/p/g4_deKhu)
+* [Offline Video Call with Local Network](https://lnkd.in/p/gnNATHzg)
+* [Running your LLM models locally!](https://lnkd.in/p/gJexZzTU)
+* [Chrome Extention: Youtube Lyrics PiP](https://lnkd.in/p/gU3nh4GJ)
 
 <p align="right">
+  <a href="https://fajarbc.com">
+    <img src="https://img.shields.io/badge/website-%23becebc.svg?style=for-the-badge&logo=web&logoColor=black" />
+  </a>
   <a href="https://linkedin.com/in/fajarbc">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
