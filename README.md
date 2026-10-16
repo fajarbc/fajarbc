@@ -25,13 +25,23 @@ I bridge the gap between **complex business goals** and **hardcore engineering**
 | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&logoColor=fff) <br> ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white) |
 ---
 
-### 📈 Latest Thoughts (From LinkedIn)
+### 📝 Latest Thoughts (From LinkedIn)
 * [LessOTP: Inbound phone authentication service and more](https://lnkd.in/p/gCJVHzxS)
 * [System 1 decision model on RAG and Vector Database](https://lnkd.in/p/gqiqb8pf)
 * [OpenClaw & Tailscale on VPS](https://lnkd.in/p/g4_deKhu)
 * [Offline Video Call with Local Network](https://lnkd.in/p/gnNATHzg)
 * [Running your LLM models locally!](https://lnkd.in/p/gJexZzTU)
 * [Chrome Extention: Youtube Lyrics PiP](https://lnkd.in/p/gU3nh4GJ)
+
+### 📈 Stats
+<div align="center">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fajarbc&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fajarbc&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fajarbc&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fajarbc&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fajarbc&theme=github_dark&utcOffset=7" />
+<img src="https://streak-stats.demolab.com/?user=fajarbc&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF&sideLabels=AAAAAA&dates=555555" />
+</div>
 
 <p align="right">
   <a href="https://fajarbc.com">
